@@ -1,2 +1,2 @@
 # pdx_redlining
-A geo-spatiotemporal analysis of environmental injustice in Portland, Oregon
+A geospatial analysis of environmental burdens, redlining, and gentrification in Portland, Oregon
