@@ -1,5 +1,3 @@
-setwd("~/R/redlining_project")
-
 library(tidyverse)
 library(tidycensus)
 library(rgdal)
